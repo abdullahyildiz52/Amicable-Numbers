@@ -1,0 +1,14 @@
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\bin\Debug\net6.0\AmicableNumbers.exe
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\bin\Debug\net6.0\AmicableNumbers.deps.json
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\bin\Debug\net6.0\AmicableNumbers.runtimeconfig.json
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\bin\Debug\net6.0\AmicableNumbers.dll
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\bin\Debug\net6.0\AmicableNumbers.pdb
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\AmicableNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\AmicableNumbers.AssemblyInfoInputs.cache
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\AmicableNumbers.AssemblyInfo.cs
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\AmicableNumbers.csproj.CoreCompileInputs.cache
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\AmicableNumbers.dll
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\refint\AmicableNumbers.dll
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\AmicableNumbers.pdb
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\AmicableNumbers.genruntimeconfig.cache
+C:\Users\YILDIZ\source\repos\AmicableNumbers\AmicableNumbers\obj\Debug\net6.0\ref\AmicableNumbers.dll
